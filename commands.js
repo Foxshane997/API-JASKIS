@@ -47,7 +47,7 @@
 
 // 4. Query for a Groundhog in the Woodlands
 
-// db.bounties.find({ species: "Groundhog", location: "Woodlands" })
+// db.bounties.find({ species: Groundhog, location: Woodlands })
 
 // Update and Delete
 // 1. Update the reward for Polarwind to 10000
